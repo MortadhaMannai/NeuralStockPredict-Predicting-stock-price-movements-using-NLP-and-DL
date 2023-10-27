@@ -2,6 +2,8 @@
 
 Using NLP and Deep learning to predict stock price movements.
 
+#AUTHOR: MANAI MORTADHA
+
 #### -- Project Status: [Active]
 
 ### Technologies
